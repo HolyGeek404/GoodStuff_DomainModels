@@ -4,6 +4,15 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
+        <PackageId>GoodStuff_DomainModels</PackageId>
+        <Authors>Wiktor Matkowski</Authors>
+
+        <PackageProjectUrl>https://github.com/HolyGeek404/GoodStuff_DomainModels</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/HolyGeek404/GoodStuff_DomainModels</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageDescription>Domain models for GoodStuff project</PackageDescription>
+        <PackageTags>DomainModels;GoodStuff</PackageTags>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
 </Project>
