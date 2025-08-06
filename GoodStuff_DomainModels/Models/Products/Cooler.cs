@@ -1,4 +1,4 @@
-namespace Models.Products;
+namespace GoodStuff_DomainModels.Models.Products;
 
 public class Cooler
 {
