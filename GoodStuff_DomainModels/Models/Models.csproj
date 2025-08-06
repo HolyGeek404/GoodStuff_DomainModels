@@ -13,6 +13,8 @@
         <PackageDescription>Domain models for GoodStuff project</PackageDescription>
         <PackageTags>DomainModels;GoodStuff</PackageTags>
         <Version>1.0.1</Version>
+        <AssemblyName>GoodStuff_DomainModels</AssemblyName>
+        <RootNamespace>GoodStuff_DomainModels.Models</RootNamespace>
     </PropertyGroup>
 
 </Project>
