@@ -1,9 +1,7 @@
 namespace GoodStuff_DomainModels.Models.Products;
 
-public class Cooler
+public class Cooler : BaseProduct
 {
-    public string Name { get; set; }
-    public string Team { get; set; }
     public string CoolerType { get; set; }
     public string Compatibility { get; set; }
     public string Size { get; set; }
@@ -22,12 +20,5 @@ public class Cooler
     public string Width { get; set; }
     public string Depth { get; set; }
     public string Weight { get; set; }
-    public string Warranty { get; set; }
-    public string ProducentCode { get; set; }
-    public string ProductImg { get; set; }
-    public string Price { get; set; }
     public string Manufacture { get; set; }
-    public string Category { get; set; }
-    public string ProductId { get; set; }
-    public string Id { get; set; }
 }
