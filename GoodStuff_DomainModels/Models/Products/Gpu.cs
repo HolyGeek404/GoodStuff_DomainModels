@@ -1,9 +1,9 @@
 namespace GoodStuff_DomainModels.Models.Products;
 
-public class Gpu  : BaseProduct
+public class GpuModel  : BaseProductModel
 {
     public string GpuProcessorLine { get; set; }
-    public string PCIeType { get; set; }
+    public string PcieType { get; set; }
     public string MemorySize { get; set; }
     public string MemoryType { get; set; }
     public string MemoryBus { get; set; }
@@ -14,7 +14,7 @@ public class Gpu  : BaseProduct
     public string OutputsType { get; set; }
     public string SupportedLibraries { get; set; }
     public string PowerConnector { get; set; }
-    public string RecommendedPSUPower { get; set; }
+    public string RecommendedPsuPower { get; set; }
     public string Length { get; set; }
     public string Width { get; set; }
     public string Height { get; set; }

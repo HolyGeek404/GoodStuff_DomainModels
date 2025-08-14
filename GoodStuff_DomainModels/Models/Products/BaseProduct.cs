@@ -1,6 +1,6 @@
 namespace GoodStuff_DomainModels.Models.Products;
 
-public abstract class BaseProduct
+public abstract class BaseProductModel
 {
     public string Name { get; set; }
     public string Team { get; set; }
