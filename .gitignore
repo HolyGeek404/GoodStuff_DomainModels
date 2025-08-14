@@ -416,3 +416,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/GoodStuff_DomainModels/.idea/.idea.GoodStuff_DomainModels/.idea/.gitignore
+/.idea/encodings.xml
+/GoodStuff_DomainModels/.idea/.idea.GoodStuff_DomainModels/.idea/encodings.xml
+/.idea/indexLayout.xml
+/GoodStuff_DomainModels/.idea/.idea.GoodStuff_DomainModels/.idea/indexLayout.xml
+/.idea/material_theme_project_new.xml
+/GoodStuff_DomainModels/.idea/.idea.GoodStuff_DomainModels/.idea/material_theme_project_new.xml
+/.idea/vcs.xml
+/GoodStuff_DomainModels/.idea/.idea.GoodStuff_DomainModels/.idea/vcs.xml
+/GoodStuff_DomainModels/Models/nuget.config
